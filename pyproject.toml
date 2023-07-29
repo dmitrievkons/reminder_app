@@ -8,6 +8,7 @@ packages = [{include = "reminder_app"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+flask = "^2.3.2"
 
 
 [build-system]
