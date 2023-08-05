@@ -4,7 +4,7 @@ version = "3.11.2"
 description = ""
 authors = ["Kostya Dmitriev <dmitrievkons2000@gmail.com>"]
 readme = "README.md"
-packages = [{include = "reminder_app"}]
+packages = [{include = "reminder_app_code"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
